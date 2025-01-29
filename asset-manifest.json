@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/bangalore/static/css/main.97b3b484.css",
+    "main.js": "/bangalore/static/js/main.a5b05d15.js",
+    "static/media/1.jpg": "/bangalore/static/media/1.ede470e462e795f84991.jpg",
+    "static/media/posterumg.webp": "/bangalore/static/media/posterumg.ed2a2075886254c86b16.webp",
+    "index.html": "/bangalore/index.html",
+    "main.97b3b484.css.map": "/bangalore/static/css/main.97b3b484.css.map",
+    "main.a5b05d15.js.map": "/bangalore/static/js/main.a5b05d15.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.97b3b484.css",
+    "static/js/main.a5b05d15.js"
+  ]
+}
